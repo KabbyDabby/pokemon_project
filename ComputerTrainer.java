@@ -1,5 +1,3 @@
-package pokemon_project;
-
 import java.util.ArrayList;
 
 public class ComputerTrainer extends PokemonTrainer

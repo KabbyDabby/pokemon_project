@@ -1,5 +1,3 @@
-package pokemon_project;
-
 public class Move
 {
     // Private constants

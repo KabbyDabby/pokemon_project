@@ -1,4 +1,3 @@
-package pokemon_project;
 import java.util.ArrayList;
 
 
